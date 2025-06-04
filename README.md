@@ -6,4 +6,5 @@ Assignments & Tasks
   <li> https://yashmith29.github.io/HTML_CODES-03/Sub-List</li>
   <li> https://yashmith29.github.io/HTML_CODES-03/Task-Table</li>
   <li> https://yashmith29.github.io/HTML_CODES-03/Task</li>
+  <li>https://yashmith29.github.io/HTML_CODES-03/Title_Bar</li>
 </ol>
